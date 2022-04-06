@@ -1,5 +1,3 @@
-
-
 def depth_first_print(graph, starting_point):
     stack = [starting_point]
     

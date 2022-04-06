@@ -1,5 +1,3 @@
-
-
 def depth_first_print(graph, starting_point):    
     # explicit base case when node is a dead-end
     print(starting_point)
