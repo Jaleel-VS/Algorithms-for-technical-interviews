@@ -1,0 +1,1 @@
+only works for matrices with rows of equal size and columns of equal size
